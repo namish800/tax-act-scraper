@@ -1,0 +1,571 @@
+[
+  {
+    "section_name": "section_1",
+    "section_title": "Section - 1",
+    "section_description": "Short title, extent and commencement",
+    "section_url": "https://incometaxindia.gov.in/acts/income-tax act, 1961/2025/102120000000090710.htm",
+    "section_id": "102120000000090710",
+    "page_number": 1,
+    "total_related_documents": 0,
+    "rules_count": 0,
+    "forms_count": 0,
+    "notifications_count": 0,
+    "circulars_count": 0,
+    "faqs_count": 0,
+    "others_count": 0,
+    "related_documents": {
+      "rules": [],
+      "forms": [],
+      "notifications": [],
+      "circulars": [],
+      "faqs": [],
+      "others": []
+    }
+  },
+  {
+    "section_name": "section_2",
+    "section_title": "Section - 2",
+    "section_description": "Definitions.",
+    "section_url": "https://incometaxindia.gov.in/acts/income-tax act, 1961/2025/102120000000090711.htm",
+    "section_id": "102120000000090711",
+    "page_number": 1,
+    "total_related_documents": 12,
+    "rules_count": 5,
+    "forms_count": 0,
+    "notifications_count": 0,
+    "circulars_count": 0,
+    "faqs_count": 4,
+    "others_count": 3,
+    "related_documents": {
+      "rules": [
+        {
+          "title": "Rule - 7",
+          "url": "https://incometaxindia.gov.in/Rules/Income-Tax Rules/103120000000007791.htm",
+          "description": ""
+        },
+        {
+          "title": "Rule - 7A",
+          "url": "https://incometaxindia.gov.in/Rules/Income-Tax Rules/103120000000007159.htm",
+          "description": ""
+        },
+        {
+          "title": "Rule - 7B",
+          "url": "https://incometaxindia.gov.in/Rules/Income-Tax Rules/103120000000007161.htm",
+          "description": ""
+        },
+        {
+          "title": "Rule - 8",
+          "url": "https://incometaxindia.gov.in/Rules/Income-Tax Rules/103120000000007792.htm",
+          "description": ""
+        },
+        {
+          "title": "Rule - 8AA",
+          "url": "https://incometaxindia.gov.in/Rules/Income-Tax Rules/ITRRule8AA.htm",
+          "description": ""
+        }
+      ],
+      "forms": [],
+      "notifications": [],
+      "circulars": [],
+      "faqs": [
+        {
+          "title": "Under the Income-tax Law is income from animal husbandry considered as an agricultural income?",
+          "url": "",
+          "description": "X No."
+        },
+        {
+          "title": "I am an agriculturist. Is my income taxable?",
+          "url": "",
+          "description": "X Agricultural income is not taxable. However, if you have non-agricultural income too, then while calculating tax on non-agricultural income, your agricultural income will be taken into account for rate purpose. For meaning of Agricultural Income refer section 2(IA) of the Income-tax Act."
+        },
+        {
+          "title": "What is Income-tax?",
+          "url": "",
+          "description": "X It is a tax levied by the Government of India on the income of every person. The provisions governing the Income-tax are covered in the Income-tax Act, 1961."
+        },
+        {
+          "title": "Who is supposed to pay Income-tax?",
+          "url": "",
+          "description": "X Income-tax is to be paid by every person. The term 'person' as defined under the Income-tax Act under section 2(3) covers in its ambit natural as well as artificial persons.For the purpose of charging Income-tax, the term 'person' includes Individual, Hindu Undivided Families [HUFs], Association of Persons [AOPs], Body of individuals [BOIs], Firms, LLPs, Companies, Local authority and any artificial juridical person not covered under any of the above. Thus, from the definition of the term 'person' it can be observed that, apart from a natural person, i.e., an individual, any sort of artificial entity will also be liable to pay Income-tax."
+        }
+      ],
+      "others": [
+        {
+          "title": "section 2(IA)",
+          "url": "#",
+          "description": "Agricultural income is not taxable. However, if you have non-agricultural income too, then while calculating tax on non-agricultural income, your agricultural income will be taken into account for rate purpose. For meaning of Agricultural Income refer of the Income-tax Act."
+        },
+        {
+          "title": "section 2(3)",
+          "url": "#",
+          "description": "Income-tax is to be paid by every person. The term 'person' as defined under the Income-tax Act under covers in its ambit natural as well as artificial persons.For the purpose of charging Income-tax, the term 'person' includes Individual, Hindu Undivided Families [HUFs], Association of Persons [AOPs], Body of individuals [BOIs], Firms, LLPs, Companies, Local authority and any artificial juridical person not covered under any of the above. Thus, from the definition of the term 'person' it can be observed that, apart from a natural person, i.e., an individual, any sort of artificial entity will also be liable to pay Income-tax."
+        },
+        {
+          "title": "FAQs on Capital Gains",
+          "url": "/Pages/faqs.aspx?k=FAQs+on+Capital+Gains",
+          "description": ""
+        }
+      ]
+    }
+  },
+  {
+    "section_name": "section_3",
+    "section_title": "Section - 3",
+    "section_description": "Previous year defined",
+    "section_url": "https://incometaxindia.gov.in/acts/income-tax act, 1961/2025/102120000000090712.htm",
+    "section_id": "102120000000090712",
+    "page_number": 1,
+    "total_related_documents": 1,
+    "rules_count": 0,
+    "forms_count": 0,
+    "notifications_count": 0,
+    "circulars_count": 0,
+    "faqs_count": 1,
+    "others_count": 0,
+    "related_documents": {
+      "rules": [],
+      "forms": [],
+      "notifications": [],
+      "circulars": [],
+      "faqs": [
+        {
+          "title": "What is the period for which a persons income is taken into account for the purpose of Income-tax?",
+          "url": "",
+          "description": "X Income-tax is levied on the annual income of a person. The year under the Income-tax Law is the period starting from 1st April and ending on 31st March of next calendar year. The Income-tax Law classifies the year as (1) Previous year, and (2) Assessment year. The year in which income is earned is called as previous year and the year in which the income is charged to tax is called as assessment year. e.g., Income earned during the period of 1st April, 2025 to 31st March, 2026 is treated as income of the previous year 2025-26. Income of the previous year 2025-26 will be charged to tax in the next year, i.e., in the assessment year 2026-27."
+        }
+      ],
+      "others": []
+    }
+  },
+  {
+    "section_name": "section_4",
+    "section_title": "Section - 4",
+    "section_description": "Charge of income-tax",
+    "section_url": "https://incometaxindia.gov.in/acts/income-tax act, 1961/2025/102120000000090713.htm",
+    "section_id": "102120000000090713",
+    "page_number": 1,
+    "total_related_documents": 25,
+    "rules_count": 0,
+    "forms_count": 0,
+    "notifications_count": 0,
+    "circulars_count": 0,
+    "faqs_count": 4,
+    "others_count": 21,
+    "related_documents": {
+      "rules": [],
+      "forms": [],
+      "notifications": [],
+      "circulars": [],
+      "faqs": [
+        {
+          "title": "How to compute the total tax liability?",
+          "url": "",
+          "description": "X After ascertaining the total income, i.e., income liable to tax, the next step is to compute the tax liability for the year. Tax liability is to be computed by applying the rates prescribed in this regard.Following table will help in understanding the manner of computation of the total tax liability of the taxpayer. Computation of total income and tax liability for the year Particulars AmountIncome from salary XXXXXIncome from house propertyXXXXXProfits and gains of business or professionXXXXXCapital gainsXXXXXIncome from other sources XXXXXTotal of head wise incomeXXXXXSet off of lossesXXXXX Gross Total Income XXXXX Less : Deductions under Chapter VI-A (i.e., under section 80C to 80U)) (XXXXX) Total Income (i.e., taxable income) XXXXXTax on total income to be computed at the applicable rates (for rates of tax, refer \"Tax Rate\" section)XXXXX Less : Rebate under section 87A (discussed in later FAQ) (XXXXX) Tax Liability After RebateXXXXX Add: Surcharge (discussed in later FAQ) XXXXX Tax Liability After SurchargeXXXXX Add: Health & Education cess @ 4% on tax liability after surchargeXXXXX Tax liability before rebate under sections 86, section 89, sections 90, 90A and 91 (if any) (*)XXXXX Less : Rebate under sections 86, section 89, sections 90, 90A and 91(if any) (*) (XXXXX) Tax liability for the year before pre-paid taxesXXXXX Less: Prepaid taxes in the form of TDS, TCS and advance tax (XXXXX) Tax payable/RefundableXXXXX(*) Rebate under section 86 is available to a member of association of persons (AOP) or body of individuals (BOI) in respect of income received by such member from the AOP/BOI.Rebate (i.e., relief) under section 89 is available to a salaried employee in respect of sum received towards arrears of salary, gratuity, etc. Rebate under sections 90, 90A and 91 is available to a taxpayer in respect of double taxed income, i.e., income which is taxed in India as well as abroad. Note : For provisions relating to Minimum Alternate Tax (MAT) in case of corporate taxpayers and Alternate Minimum Tax (AMT) in case of non-corporate taxpayers refer tutorial on \"MAT/AMT\"."
+        },
+        {
+          "title": "Is there any limit of income below which I need not pay tax?",
+          "url": "",
+          "description": "X At this moment Individual, HUF, AOP, and BOI having income below Rs. 2,50,000 need not pay any Income-tax. In respect of resident individuals of the age of 60 years and above but below 80 years, the basic exemption limit is Rs. 3,00,000 and in respect of resident individuals of 80 years and above, the limit is Rs. 5,00,000. For other categories of persons such as co-operative societies, firms, companies and local authorities, no basic exemption limit exists and, hence, they have to pay taxes on their entire income chargeable to tax.Further, if an individual, HUF, AOP, BOI, and AJP opted for new tax regime under Section 115BAC, threshold limit of Rs. 4,00,000 shall be applicable to them. (applicable w.e.f. Assessment Year 2026-27)"
+        },
+        {
+          "title": "What is marginal relief and how it is computed?",
+          "url": "",
+          "description": "X The concept of marginal relief is designed to provide relaxation from levy of surcharge to a taxpayer where the total income exceeds marginally above Rs. 50 lakh, Rs. 1 crore, Rs. 2 crore, Rs. 5 crore or Rs. 10 crore, as the case may be. Thus, while computing surcharge, in case of taxpayers (i.e. Individuals/HUF/AOP/BOI/artificial juridical person) having total income of more than Rs. 50 lakh marginal relief shall be available in such a manner that the net amount payable as income-tax and surcharge shall not exceed the total amount payable as income-tax on total income of Rs. 50 lakh by more than the amount of income that exceeds Rs. 50 lakh. In case of a company, surcharge is levied @ 7% (2% in case of foreign company) on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 12% (5% in case of foreign company) on the amount of income-tax if total income exceeds Rs. 10 crore. Hence, in case of company whose total income exceeds Rs. 1 crore but does not exceeds Rs. 10 crore, marginal relief will be computed as discussed above, but in the case of company having total income above Rs. 10 crore marginal relief is available in such a manner that the net amount payable as income-tax and surcharge shall not exceed the total amount payable as income-tax and surcharge on total income of Rs. 10 crore by more than the amount of income that exceeds Rs. 10 crore. Illustration for better understanding Mr. Mukesh is salaried employee (age 40 years). His total income from salary for the year 2023-24 amount to Rs. 51,00,000. Will he liable to pay surcharge, if yes, then how much and will he get the benefit of margin relief? ** Surcharge is additional tax levied on the amount of income-tax. In case of taxpayers (i.e. Individuals/HUF/AOP/BOI/artificial juridical person), surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh. In this case, total income of Mr. Mukesh exceeds Rs. 50 lakh and hence he will be liable to pay surcharge. Marginal relief is available in cases where the total income is slightly above Rs. 50 Lakh. The Computation of normal tax liability (i.e. liability without marginal relief) and tax liability under marginal relief (i.e. liability after marginal relief) will be as follows: (1) Normal tax liability (i.e. without marginal relief) Tax on total income before surcharge (*)13,42,500Add: Surcharge (@10% on the amount of income-tax of Rs. 13,42,500 1,34,250Tax liability after surcharge (i.e., normal tax liability) 14,76,750 (*) The normal tax rates for the financial year 2025-26 applicable to an individual below the age of 60 years are as follows: Nil upto income of Rs. 2,50,0005% for income above Rs. 2,50,000 but upto Rs. 5,00,00020% for income above Rs. 5,00,000 but upto Rs. 10,00,00030% for income above Rs. 10,00,000. Apart from above rates, cess will be computed separately. (2) Tax liability under marginal relief (i.e. after marginal relief) Tax on Rs. 50 lakh (at the above discussed rates)13,12,500Add: Income above Rs. 50 lakh1,00,000Tax liability under marginal relief 14,12,500 Conclusion Normal tax liability (i.e.without marginal relief) comes to Rs. 14,76,750 and tax liability under marginal relief comes to Rs. 14,12,500. It can be observed that tax liability under marginal relief is lower and, hence, Rs. 14,12,500 will be the tax liability before cess. Total tax liability will be computed as follows: Rs.Tax liability after marginal relief (*)14,12,500 Add:Health & education cess @ 4%56,500 Tax liability14,69,000 (*) In this case, surcharge paid by Mr. Mukesh will be Rs. 70,000 computed as follows: Rs.Tax liability (before cess) on Rs. 51,00,000 after considering the provisions of marginal relief14,12,500Tax liability (before cess) at normal rates on Rs. 51,00,000 if surcharge is not levied13,42,500Surcharge (i.e.increase in tax liability) 70,000 Illustration for better understanding Mr. Raja is businessman (age 35 years). His total income for the year 2025-26 amounted to Rs. 1,02,00,000. Will he be liable to pay surcharge, if yes, then how much and will he get the benefit of marginal relief? ** Surcharge is additional tax levied on the amount of income-tax. In case of taxpayers (i.e. Individuals/HUF/AOP/BOI/artificial juridical person), surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 1 crore. In this case, total income of Mr. Raja exceeds Rs. 1 crore and hence he will be liable to pay surcharge. Marginal relief is available in cases where the total income is slightly above Rs. 1 crore. The Computation of normal tax liability (i.e. liability without marginal relief) and tax liability under marginal relief (i.e. liability after marginal relief) will be as follows: (1) Normal tax liability (i.e. without marginal relief) Tax on total income before surcharge (*)28,72,500Add: Surcharge (@15% on the amount of income-tax of Rs. 28,72,500 )4,30,875Tax liability after surcharge (i.e., normal tax liability) 33,03,375 (*) The normal tax rates for the financial year 2025-26 applicable to an individual below the age of 60 years are as follows: Nil upto income of Rs. 2,50,0005% for income above Rs. 2,50,000 but upto Rs. 5,00,00020% for income above Rs. 5,00,000 but upto Rs. 10,00,00030% for income above Rs. 10,00,000. Apart from above rates, cess will be computed separately. (2) Tax liability under marginal relief (i.e. after marginal relief) Tax on Rs. 1 crore (at the above discussed rates)28,12,500Add: Surcharge on income-tax @ 10% (if income is Rs. 1 crore)2,81,250Add: Income above Rs. 1 crore2,00,000Tax liability under marginal relief 32,93,750 Conclusion Normal tax liability (i.e.without marginal relief) comes to Rs. 33,03,375 and tax liability under marginal relief comes to Rs. 32,93,750. It can be observed that tax liability under marginal relief is lower and, hence, Rs. 32,93,750 will be the tax liability before cess. Total tax liability will be computed as follows: Rs.Tax liability after marginal relief (*)32,93,750 Add:Health & education cess @ 4%1,31,750 Tax liability34,25,500 Illustration for better understanding Mr. Karan is a businessman (age 35 years). His total income for the year 2025-26 amounted to Rs. 1,07,00,000. Will he be liable to pay surcharge, if yes, then how much and will he get the benefit of marginal relief? ** Surcharge is additional tax levied on the amount of income-tax. In case of taxpayers (i.e. Individuals/HUF/AOP/BOI/artificial juridical person) surcharge is levied @ 15% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 1 crore. In this case, total income of Mr. Karan exceeds Rs. 1 crore and hence he will be liable to pay surcharge. Marginal relief is available in cases where the total income is slightly above Rs. 1 crore. The computation of normal tax liability (i.e. liability without marginal relief) and tax liability under marginal relief (i.e. liability after marginal relief) will be as follows : (1) Normal tax liability (i.e. without marginal relief) Tax on total income before surcharge (*)30,22,500Add: Surcharge (@15% on the amount of income-tax of Rs. 30,22,500)4,53,375Tax liability after surcharge (i.e., normal tax liability) 34,75,875 (*) Tax rates are discussed in previous illustration. (2) Tax liability under marginal relief (i.e. after marginal relief) Tax on Rs. 1 crore (at the rates discussed in previous illustration)28,12,500Add: Income above Rs. 1 crore7,00,000Tax liability under marginal relief 35,12,500 Conclusion Normal tax liability (i.e.without marginal relief) comes to Rs. 34,75,875 and tax liability under marginal relief comes to Rs. 35,12,500. It can be observed that normal tax liability (i.e. without marginal relief) is lower and, hence, Rs. 34,75,875 will be the tax liability before cess. Total tax liability will be computed as follows: Rs.Normal tax liability i.e. tax liability after surcharge ofRs. 4,53,37534,75,875 Add:Health & education cess @ 4%1,39,035 Tax liability36,14,910"
+        },
+        {
+          "title": "What is surcharge and how it is computed?",
+          "url": "",
+          "description": "X Surcharge is an additional tax levied on the amount of income-tax. In case of individuals/HUF/AOP/BOI/artificial juridical person, surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh but doesnt exceeds Rs. 1 crore. Surcharge is levied @ 15% of income-tax where the total income of the taxpayer exceeds Rs. 1 crore but doesn't exceeds Rs. 2 crore.(*). Surcharge is levied @ 25% of income-tax where the total income of the taxpayer exceeds Rs. 2 crore but doesnt exceeds Rs. 5 crore(*). Surcharge is levied @ 37% of income-tax where the total income of the taxpayer exceeds Rs. 5 crore(*). Notes: (a) The surcharge rate for AOP with all members as a company, shall be capped at 15%. (b) The enhanced surcharge of 25% & 37%, as the case may be, is not levied, from income chargeable to tax under sections 111A, 112, 112A and 115AD. (c) The surcharge rate is nil if the total income of a specified fund as referred to section 10(4D) includes any income in respect of securities as given under section 115AD(1)(a). (d) If assessee opted for tax regime under section 115BAC(1A), the enhanced surcharge rate of 37% isnt levied. In other words, f the total income of an assessee exceeds Rs. 5 crores, the surcharge rate will be 25% instead of 37%. In case of Firm, and local authority surcharge is levied at 12% if total income exceeds Rs 1 crore. In case of co-operative society, surcharge is levied at 7% if total income exceeds Rs 1 crore but doesnt exceeds Rs. 10 crore and surcharge is levied at 12% if total income exceeds Rs 1 crore. In case where a co-operative society opted for the alternative tax regime under section 115BAD or 115BAE, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a domestic company surcharge is levied @ 7% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 12% on the amount of income-tax if total income exceeds Rs. 10 crore (*). In case where a domestic company opted for alternative tax regime under section 115BAA or section 115BAB, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a foreign company surcharge is levied @ 2% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 5% on the amount of income-tax if total income exceeds Rs. 10 crore (*). (*) A taxpayer can claim marginal relief from the amount of surcharge, subject to certain conditions. Refer to next FAQ for concept of marginal relief. Illustration for better understanding Mr. Kapoor is a doctor, his total income for the year amounted to Rs. 44,00,000. Will he be liable to pay surcharge, if yes, then how much? ** Surcharge is additional tax levied on the amount of income-tax. In case of individuals surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh. In this case, total income of Mr. Kapoor is below Rs. 50 lakh, hence, he will not be liable to pay surcharge."
+        }
+      ],
+      "others": [
+        {
+          "title": "section 80C",
+          "url": "#",
+          "description": "Less : Deductions under Chapter VI-A (i.e., under to 80U))"
+        },
+        {
+          "title": "section 87A",
+          "url": "#",
+          "description": "Less : Rebate under (discussed in later FAQ)"
+        },
+        {
+          "title": "sections 86",
+          "url": "#",
+          "description": "Tax liability before rebate under , section 89, sections 90, 90A and 91 (if any) (*)"
+        },
+        {
+          "title": "section 89",
+          "url": "#",
+          "description": "Tax liability before rebate under sections 86, , sections 90, 90A and 91 (if any) (*)"
+        },
+        {
+          "title": "sections 90",
+          "url": "#",
+          "description": "Tax liability before rebate under sections 86, section 89, , 90A and 91 (if any) (*)"
+        },
+        {
+          "title": "sections 86",
+          "url": "#",
+          "description": "Less : Rebate under , section 89, sections 90, 90A and 91(if any) (*)"
+        },
+        {
+          "title": "section 89",
+          "url": "#",
+          "description": "Less : Rebate under sections 86, , sections 90, 90A and 91(if any) (*)"
+        },
+        {
+          "title": "sections 90",
+          "url": "#",
+          "description": "Less : Rebate under sections 86, section 89, , 90A and 91(if any) (*)"
+        },
+        {
+          "title": "section 86",
+          "url": "#",
+          "description": "After ascertaining the total income, i.e., income liable to tax, the next step is to compute the tax liability for the year. Tax liability is to be computed by applying the rates prescribed in this regard.Following table will help in understanding the manner of computation of the total tax liability of the taxpayer. Computation of total income and tax liability for the year Particulars AmountIncome from salary XXXXXIncome from house propertyXXXXXProfits and gains of business or professionXXXXXCapital gainsXXXXXIncome from other sources XXXXXTotal of head wise incomeXXXXXSet off of lossesXXXXX Gross Total Income XXXXX Less : Deductions under Chapter VI-A (i.e., under section 80C to 80U)) (XXXXX) Total Income (i.e., taxable income) XXXXXTax on total income to be computed at the applicable rates (for rates of tax, refer \"Tax Rate\" section)XXXXX Less : Rebate under section 87A (discussed in later FAQ) (XXXXX) Tax Liability After RebateXXXXX Add: Surcharge (discussed in later FAQ) XXXXX Tax Liability After SurchargeXXXXX Add: Health & Education cess @ 4% on tax liability after surchargeXXXXX Tax liability before rebate under sections 86, section 89, sections 90, 90A and 91 (if any) (*)XXXXX Less : Rebate under sections 86, section 89, sections 90, 90A and 91(if any) (*) (XXXXX) Tax liability for the year before pre-paid taxesXXXXX Less: Prepaid taxes in the form of TDS, TCS and advance tax (XXXXX) Tax payable/RefundableXXXXX(*) Rebate under is available to a member of association of persons (AOP) or body of individuals (BOI) in respect of income received by such member from the AOP/BOI.Rebate (i.e., relief) under section 89 is available to a salaried employee in respect of sum received towards arrears of salary, gratuity, etc. Rebate under sections 90, 90A and 91 is available to a taxpayer in respect of double taxed income, i.e., income which is taxed in India as well as abroad. Note : For provisions relating to Minimum Alternate Tax (MAT) in case of corporate taxpayers and Alternate Minimum Tax (AMT) in case of non-corporate taxpayers refer tutorial on \"MAT/AMT\"."
+        },
+        {
+          "title": "section 89",
+          "url": "#",
+          "description": "After ascertaining the total income, i.e., income liable to tax, the next step is to compute the tax liability for the year. Tax liability is to be computed by applying the rates prescribed in this regard.Following table will help in understanding the manner of computation of the total tax liability of the taxpayer. Computation of total income and tax liability for the year Particulars AmountIncome from salary XXXXXIncome from house propertyXXXXXProfits and gains of business or professionXXXXXCapital gainsXXXXXIncome from other sources XXXXXTotal of head wise incomeXXXXXSet off of lossesXXXXX Gross Total Income XXXXX Less : Deductions under Chapter VI-A (i.e., under section 80C to 80U)) (XXXXX) Total Income (i.e., taxable income) XXXXXTax on total income to be computed at the applicable rates (for rates of tax, refer \"Tax Rate\" section)XXXXX Less : Rebate under section 87A (discussed in later FAQ) (XXXXX) Tax Liability After RebateXXXXX Add: Surcharge (discussed in later FAQ) XXXXX Tax Liability After SurchargeXXXXX Add: Health & Education cess @ 4% on tax liability after surchargeXXXXX Tax liability before rebate under sections 86, , sections 90, 90A and 91 (if any) (*)XXXXX Less : Rebate under sections 86, , sections 90, 90A and 91(if any) (*) (XXXXX) Tax liability for the year before pre-paid taxesXXXXX Less: Prepaid taxes in the form of TDS, TCS and advance tax (XXXXX) Tax payable/RefundableXXXXX(*) Rebate under section 86 is available to a member of association of persons (AOP) or body of individuals (BOI) in respect of income received by such member from the AOP/BOI.Rebate (i.e., relief) under is available to a salaried employee in respect of sum received towards arrears of salary, gratuity, etc. Rebate under sections 90, 90A and 91 is available to a taxpayer in respect of double taxed income, i.e., income which is taxed in India as well as abroad. Note : For provisions relating to Minimum Alternate Tax (MAT) in case of corporate taxpayers and Alternate Minimum Tax (AMT) in case of non-corporate taxpayers refer tutorial on \"MAT/AMT\"."
+        },
+        {
+          "title": "sections 90",
+          "url": "#",
+          "description": "After ascertaining the total income, i.e., income liable to tax, the next step is to compute the tax liability for the year. Tax liability is to be computed by applying the rates prescribed in this regard.Following table will help in understanding the manner of computation of the total tax liability of the taxpayer. Computation of total income and tax liability for the year Particulars AmountIncome from salary XXXXXIncome from house propertyXXXXXProfits and gains of business or professionXXXXXCapital gainsXXXXXIncome from other sources XXXXXTotal of head wise incomeXXXXXSet off of lossesXXXXX Gross Total Income XXXXX Less : Deductions under Chapter VI-A (i.e., under section 80C to 80U)) (XXXXX) Total Income (i.e., taxable income) XXXXXTax on total income to be computed at the applicable rates (for rates of tax, refer \"Tax Rate\" section)XXXXX Less : Rebate under section 87A (discussed in later FAQ) (XXXXX) Tax Liability After RebateXXXXX Add: Surcharge (discussed in later FAQ) XXXXX Tax Liability After SurchargeXXXXX Add: Health & Education cess @ 4% on tax liability after surchargeXXXXX Tax liability before rebate under sections 86, section 89, , 90A and 91 (if any) (*)XXXXX Less : Rebate under sections 86, section 89, , 90A and 91(if any) (*) (XXXXX) Tax liability for the year before pre-paid taxesXXXXX Less: Prepaid taxes in the form of TDS, TCS and advance tax (XXXXX) Tax payable/RefundableXXXXX(*) Rebate under section 86 is available to a member of association of persons (AOP) or body of individuals (BOI) in respect of income received by such member from the AOP/BOI.Rebate (i.e., relief) under section 89 is available to a salaried employee in respect of sum received towards arrears of salary, gratuity, etc. Rebate under , 90A and 91 is available to a taxpayer in respect of double taxed income, i.e., income which is taxed in India as well as abroad. Note : For provisions relating to Minimum Alternate Tax (MAT) in case of corporate taxpayers and Alternate Minimum Tax (AMT) in case of non-corporate taxpayers refer tutorial on \"MAT/AMT\"."
+        },
+        {
+          "title": "Section 115BAC",
+          "url": "#",
+          "description": "At this moment Individual, HUF, AOP, and BOI having income below Rs. 2,50,000 need not pay any Income-tax. In respect of resident individuals of the age of 60 years and above but below 80 years, the basic exemption limit is Rs. 3,00,000 and in respect of resident individuals of 80 years and above, the limit is Rs. 5,00,000. For other categories of persons such as co-operative societies, firms, companies and local authorities, no basic exemption limit exists and, hence, they have to pay taxes on their entire income chargeable to tax.Further, if an individual, HUF, AOP, BOI, and AJP opted for new tax regime under , threshold limit of Rs. 4,00,000 shall be applicable to them. (applicable w.e.f. Assessment Year 2026-27)"
+        },
+        {
+          "title": "sections 111A",
+          "url": "#",
+          "description": "Surcharge is an additional tax levied on the amount of income-tax. In case of individuals/HUF/AOP/BOI/artificial juridical person, surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh but doesnt exceeds Rs. 1 crore. Surcharge is levied @ 15% of income-tax where the total income of the taxpayer exceeds Rs. 1 crore but doesn't exceeds Rs. 2 crore.(*). Surcharge is levied @ 25% of income-tax where the total income of the taxpayer exceeds Rs. 2 crore but doesnt exceeds Rs. 5 crore(*). Surcharge is levied @ 37% of income-tax where the total income of the taxpayer exceeds Rs. 5 crore(*). Notes: (a) The surcharge rate for AOP with all members as a company, shall be capped at 15%. (b) The enhanced surcharge of 25% & 37%, as the case may be, is not levied, from income chargeable to tax under , 112, 112A and 115AD. (c) The surcharge rate is nil if the total income of a specified fund as referred to section 10(4D) includes any income in respect of securities as given under section 115AD(1)(a). (d) If assessee opted for tax regime under section 115BAC(1A), the enhanced surcharge rate of 37% isnt levied. In other words, f the total income of an assessee exceeds Rs. 5 crores, the surcharge rate will be 25% instead of 37%. In case of Firm, and local authority surcharge is levied at 12% if total income exceeds Rs 1 crore. In case of co-operative society, surcharge is levied at 7% if total income exceeds Rs 1 crore but doesnt exceeds Rs. 10 crore and surcharge is levied at 12% if total income exceeds Rs 1 crore. In case where a co-operative society opted for the alternative tax regime under section 115BAD or 115BAE, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a domestic company surcharge is levied @ 7% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 12% on the amount of income-tax if total income exceeds Rs. 10 crore (*). In case where a domestic company opted for alternative tax regime under section 115BAA or section 115BAB, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a foreign company surcharge is levied @ 2% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 5% on the amount of income-tax if total income exceeds Rs. 10 crore (*). (*) A taxpayer can claim marginal relief from the amount of surcharge, subject to certain conditions. Refer to next FAQ for concept of marginal relief. Illustration for better understanding Mr. Kapoor is a doctor, his total income for the year amounted to Rs. 44,00,000. Will he be liable to pay surcharge, if yes, then how much? ** Surcharge is additional tax levied on the amount of income-tax. In case of individuals surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh. In this case, total income of Mr. Kapoor is below Rs. 50 lakh, hence, he will not be liable to pay surcharge."
+        },
+        {
+          "title": "115AD",
+          "url": "#",
+          "description": "Surcharge is an additional tax levied on the amount of income-tax. In case of individuals/HUF/AOP/BOI/artificial juridical person, surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh but doesnt exceeds Rs. 1 crore. Surcharge is levied @ 15% of income-tax where the total income of the taxpayer exceeds Rs. 1 crore but doesn't exceeds Rs. 2 crore.(*). Surcharge is levied @ 25% of income-tax where the total income of the taxpayer exceeds Rs. 2 crore but doesnt exceeds Rs. 5 crore(*). Surcharge is levied @ 37% of income-tax where the total income of the taxpayer exceeds Rs. 5 crore(*). Notes: (a) The surcharge rate for AOP with all members as a company, shall be capped at 15%. (b) The enhanced surcharge of 25% & 37%, as the case may be, is not levied, from income chargeable to tax under sections 111A, 112, 112A and . (c) The surcharge rate is nil if the total income of a specified fund as referred to section 10(4D) includes any income in respect of securities as given under section (1)(a). (d) If assessee opted for tax regime under section 115BAC(1A), the enhanced surcharge rate of 37% isnt levied. In other words, f the total income of an assessee exceeds Rs. 5 crores, the surcharge rate will be 25% instead of 37%. In case of Firm, and local authority surcharge is levied at 12% if total income exceeds Rs 1 crore. In case of co-operative society, surcharge is levied at 7% if total income exceeds Rs 1 crore but doesnt exceeds Rs. 10 crore and surcharge is levied at 12% if total income exceeds Rs 1 crore. In case where a co-operative society opted for the alternative tax regime under section 115BAD or 115BAE, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a domestic company surcharge is levied @ 7% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 12% on the amount of income-tax if total income exceeds Rs. 10 crore (*). In case where a domestic company opted for alternative tax regime under section 115BAA or section 115BAB, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a foreign company surcharge is levied @ 2% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 5% on the amount of income-tax if total income exceeds Rs. 10 crore (*). (*) A taxpayer can claim marginal relief from the amount of surcharge, subject to certain conditions. Refer to next FAQ for concept of marginal relief. Illustration for better understanding Mr. Kapoor is a doctor, his total income for the year amounted to Rs. 44,00,000. Will he be liable to pay surcharge, if yes, then how much? ** Surcharge is additional tax levied on the amount of income-tax. In case of individuals surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh. In this case, total income of Mr. Kapoor is below Rs. 50 lakh, hence, he will not be liable to pay surcharge."
+        },
+        {
+          "title": "section 10(4D)",
+          "url": "#",
+          "description": "Surcharge is an additional tax levied on the amount of income-tax. In case of individuals/HUF/AOP/BOI/artificial juridical person, surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh but doesnt exceeds Rs. 1 crore. Surcharge is levied @ 15% of income-tax where the total income of the taxpayer exceeds Rs. 1 crore but doesn't exceeds Rs. 2 crore.(*). Surcharge is levied @ 25% of income-tax where the total income of the taxpayer exceeds Rs. 2 crore but doesnt exceeds Rs. 5 crore(*). Surcharge is levied @ 37% of income-tax where the total income of the taxpayer exceeds Rs. 5 crore(*). Notes: (a) The surcharge rate for AOP with all members as a company, shall be capped at 15%. (b) The enhanced surcharge of 25% & 37%, as the case may be, is not levied, from income chargeable to tax under sections 111A, 112, 112A and 115AD. (c) The surcharge rate is nil if the total income of a specified fund as referred to includes any income in respect of securities as given under section 115AD(1)(a). (d) If assessee opted for tax regime under section 115BAC(1A), the enhanced surcharge rate of 37% isnt levied. In other words, f the total income of an assessee exceeds Rs. 5 crores, the surcharge rate will be 25% instead of 37%. In case of Firm, and local authority surcharge is levied at 12% if total income exceeds Rs 1 crore. In case of co-operative society, surcharge is levied at 7% if total income exceeds Rs 1 crore but doesnt exceeds Rs. 10 crore and surcharge is levied at 12% if total income exceeds Rs 1 crore. In case where a co-operative society opted for the alternative tax regime under section 115BAD or 115BAE, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a domestic company surcharge is levied @ 7% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 12% on the amount of income-tax if total income exceeds Rs. 10 crore (*). In case where a domestic company opted for alternative tax regime under section 115BAA or section 115BAB, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a foreign company surcharge is levied @ 2% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 5% on the amount of income-tax if total income exceeds Rs. 10 crore (*). (*) A taxpayer can claim marginal relief from the amount of surcharge, subject to certain conditions. Refer to next FAQ for concept of marginal relief. Illustration for better understanding Mr. Kapoor is a doctor, his total income for the year amounted to Rs. 44,00,000. Will he be liable to pay surcharge, if yes, then how much? ** Surcharge is additional tax levied on the amount of income-tax. In case of individuals surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh. In this case, total income of Mr. Kapoor is below Rs. 50 lakh, hence, he will not be liable to pay surcharge."
+        },
+        {
+          "title": "section 115AD(1)(a)",
+          "url": "#",
+          "description": "Surcharge is an additional tax levied on the amount of income-tax. In case of individuals/HUF/AOP/BOI/artificial juridical person, surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh but doesnt exceeds Rs. 1 crore. Surcharge is levied @ 15% of income-tax where the total income of the taxpayer exceeds Rs. 1 crore but doesn't exceeds Rs. 2 crore.(*). Surcharge is levied @ 25% of income-tax where the total income of the taxpayer exceeds Rs. 2 crore but doesnt exceeds Rs. 5 crore(*). Surcharge is levied @ 37% of income-tax where the total income of the taxpayer exceeds Rs. 5 crore(*). Notes: (a) The surcharge rate for AOP with all members as a company, shall be capped at 15%. (b) The enhanced surcharge of 25% & 37%, as the case may be, is not levied, from income chargeable to tax under sections 111A, 112, 112A and 115AD. (c) The surcharge rate is nil if the total income of a specified fund as referred to section 10(4D) includes any income in respect of securities as given under . (d) If assessee opted for tax regime under section 115BAC(1A), the enhanced surcharge rate of 37% isnt levied. In other words, f the total income of an assessee exceeds Rs. 5 crores, the surcharge rate will be 25% instead of 37%. In case of Firm, and local authority surcharge is levied at 12% if total income exceeds Rs 1 crore. In case of co-operative society, surcharge is levied at 7% if total income exceeds Rs 1 crore but doesnt exceeds Rs. 10 crore and surcharge is levied at 12% if total income exceeds Rs 1 crore. In case where a co-operative society opted for the alternative tax regime under section 115BAD or 115BAE, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a domestic company surcharge is levied @ 7% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 12% on the amount of income-tax if total income exceeds Rs. 10 crore (*). In case where a domestic company opted for alternative tax regime under section 115BAA or section 115BAB, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a foreign company surcharge is levied @ 2% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 5% on the amount of income-tax if total income exceeds Rs. 10 crore (*). (*) A taxpayer can claim marginal relief from the amount of surcharge, subject to certain conditions. Refer to next FAQ for concept of marginal relief. Illustration for better understanding Mr. Kapoor is a doctor, his total income for the year amounted to Rs. 44,00,000. Will he be liable to pay surcharge, if yes, then how much? ** Surcharge is additional tax levied on the amount of income-tax. In case of individuals surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh. In this case, total income of Mr. Kapoor is below Rs. 50 lakh, hence, he will not be liable to pay surcharge."
+        },
+        {
+          "title": "section 115BAC(1A)",
+          "url": "#",
+          "description": "Surcharge is an additional tax levied on the amount of income-tax. In case of individuals/HUF/AOP/BOI/artificial juridical person, surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh but doesnt exceeds Rs. 1 crore. Surcharge is levied @ 15% of income-tax where the total income of the taxpayer exceeds Rs. 1 crore but doesn't exceeds Rs. 2 crore.(*). Surcharge is levied @ 25% of income-tax where the total income of the taxpayer exceeds Rs. 2 crore but doesnt exceeds Rs. 5 crore(*). Surcharge is levied @ 37% of income-tax where the total income of the taxpayer exceeds Rs. 5 crore(*). Notes: (a) The surcharge rate for AOP with all members as a company, shall be capped at 15%. (b) The enhanced surcharge of 25% & 37%, as the case may be, is not levied, from income chargeable to tax under sections 111A, 112, 112A and 115AD. (c) The surcharge rate is nil if the total income of a specified fund as referred to section 10(4D) includes any income in respect of securities as given under section 115AD(1)(a). (d) If assessee opted for tax regime under , the enhanced surcharge rate of 37% isnt levied. In other words, f the total income of an assessee exceeds Rs. 5 crores, the surcharge rate will be 25% instead of 37%. In case of Firm, and local authority surcharge is levied at 12% if total income exceeds Rs 1 crore. In case of co-operative society, surcharge is levied at 7% if total income exceeds Rs 1 crore but doesnt exceeds Rs. 10 crore and surcharge is levied at 12% if total income exceeds Rs 1 crore. In case where a co-operative society opted for the alternative tax regime under section 115BAD or 115BAE, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a domestic company surcharge is levied @ 7% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 12% on the amount of income-tax if total income exceeds Rs. 10 crore (*). In case where a domestic company opted for alternative tax regime under section 115BAA or section 115BAB, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a foreign company surcharge is levied @ 2% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 5% on the amount of income-tax if total income exceeds Rs. 10 crore (*). (*) A taxpayer can claim marginal relief from the amount of surcharge, subject to certain conditions. Refer to next FAQ for concept of marginal relief. Illustration for better understanding Mr. Kapoor is a doctor, his total income for the year amounted to Rs. 44,00,000. Will he be liable to pay surcharge, if yes, then how much? ** Surcharge is additional tax levied on the amount of income-tax. In case of individuals surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh. In this case, total income of Mr. Kapoor is below Rs. 50 lakh, hence, he will not be liable to pay surcharge."
+        },
+        {
+          "title": "section 115BAD",
+          "url": "#",
+          "description": "Surcharge is an additional tax levied on the amount of income-tax. In case of individuals/HUF/AOP/BOI/artificial juridical person, surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh but doesnt exceeds Rs. 1 crore. Surcharge is levied @ 15% of income-tax where the total income of the taxpayer exceeds Rs. 1 crore but doesn't exceeds Rs. 2 crore.(*). Surcharge is levied @ 25% of income-tax where the total income of the taxpayer exceeds Rs. 2 crore but doesnt exceeds Rs. 5 crore(*). Surcharge is levied @ 37% of income-tax where the total income of the taxpayer exceeds Rs. 5 crore(*). Notes: (a) The surcharge rate for AOP with all members as a company, shall be capped at 15%. (b) The enhanced surcharge of 25% & 37%, as the case may be, is not levied, from income chargeable to tax under sections 111A, 112, 112A and 115AD. (c) The surcharge rate is nil if the total income of a specified fund as referred to section 10(4D) includes any income in respect of securities as given under section 115AD(1)(a). (d) If assessee opted for tax regime under section 115BAC(1A), the enhanced surcharge rate of 37% isnt levied. In other words, f the total income of an assessee exceeds Rs. 5 crores, the surcharge rate will be 25% instead of 37%. In case of Firm, and local authority surcharge is levied at 12% if total income exceeds Rs 1 crore. In case of co-operative society, surcharge is levied at 7% if total income exceeds Rs 1 crore but doesnt exceeds Rs. 10 crore and surcharge is levied at 12% if total income exceeds Rs 1 crore. In case where a co-operative society opted for the alternative tax regime under or 115BAE, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a domestic company surcharge is levied @ 7% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 12% on the amount of income-tax if total income exceeds Rs. 10 crore (*). In case where a domestic company opted for alternative tax regime under section 115BAA or section 115BAB, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a foreign company surcharge is levied @ 2% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 5% on the amount of income-tax if total income exceeds Rs. 10 crore (*). (*) A taxpayer can claim marginal relief from the amount of surcharge, subject to certain conditions. Refer to next FAQ for concept of marginal relief. Illustration for better understanding Mr. Kapoor is a doctor, his total income for the year amounted to Rs. 44,00,000. Will he be liable to pay surcharge, if yes, then how much? ** Surcharge is additional tax levied on the amount of income-tax. In case of individuals surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh. In this case, total income of Mr. Kapoor is below Rs. 50 lakh, hence, he will not be liable to pay surcharge."
+        },
+        {
+          "title": "115BAE",
+          "url": "#",
+          "description": "Surcharge is an additional tax levied on the amount of income-tax. In case of individuals/HUF/AOP/BOI/artificial juridical person, surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh but doesnt exceeds Rs. 1 crore. Surcharge is levied @ 15% of income-tax where the total income of the taxpayer exceeds Rs. 1 crore but doesn't exceeds Rs. 2 crore.(*). Surcharge is levied @ 25% of income-tax where the total income of the taxpayer exceeds Rs. 2 crore but doesnt exceeds Rs. 5 crore(*). Surcharge is levied @ 37% of income-tax where the total income of the taxpayer exceeds Rs. 5 crore(*). Notes: (a) The surcharge rate for AOP with all members as a company, shall be capped at 15%. (b) The enhanced surcharge of 25% & 37%, as the case may be, is not levied, from income chargeable to tax under sections 111A, 112, 112A and 115AD. (c) The surcharge rate is nil if the total income of a specified fund as referred to section 10(4D) includes any income in respect of securities as given under section 115AD(1)(a). (d) If assessee opted for tax regime under section 115BAC(1A), the enhanced surcharge rate of 37% isnt levied. In other words, f the total income of an assessee exceeds Rs. 5 crores, the surcharge rate will be 25% instead of 37%. In case of Firm, and local authority surcharge is levied at 12% if total income exceeds Rs 1 crore. In case of co-operative society, surcharge is levied at 7% if total income exceeds Rs 1 crore but doesnt exceeds Rs. 10 crore and surcharge is levied at 12% if total income exceeds Rs 1 crore. In case where a co-operative society opted for the alternative tax regime under section 115BAD or , the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a domestic company surcharge is levied @ 7% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 12% on the amount of income-tax if total income exceeds Rs. 10 crore (*). In case where a domestic company opted for alternative tax regime under section 115BAA or section 115BAB, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a foreign company surcharge is levied @ 2% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 5% on the amount of income-tax if total income exceeds Rs. 10 crore (*). (*) A taxpayer can claim marginal relief from the amount of surcharge, subject to certain conditions. Refer to next FAQ for concept of marginal relief. Illustration for better understanding Mr. Kapoor is a doctor, his total income for the year amounted to Rs. 44,00,000. Will he be liable to pay surcharge, if yes, then how much? ** Surcharge is additional tax levied on the amount of income-tax. In case of individuals surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh. In this case, total income of Mr. Kapoor is below Rs. 50 lakh, hence, he will not be liable to pay surcharge."
+        },
+        {
+          "title": "section 115BAA",
+          "url": "#",
+          "description": "Surcharge is an additional tax levied on the amount of income-tax. In case of individuals/HUF/AOP/BOI/artificial juridical person, surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh but doesnt exceeds Rs. 1 crore. Surcharge is levied @ 15% of income-tax where the total income of the taxpayer exceeds Rs. 1 crore but doesn't exceeds Rs. 2 crore.(*). Surcharge is levied @ 25% of income-tax where the total income of the taxpayer exceeds Rs. 2 crore but doesnt exceeds Rs. 5 crore(*). Surcharge is levied @ 37% of income-tax where the total income of the taxpayer exceeds Rs. 5 crore(*). Notes: (a) The surcharge rate for AOP with all members as a company, shall be capped at 15%. (b) The enhanced surcharge of 25% & 37%, as the case may be, is not levied, from income chargeable to tax under sections 111A, 112, 112A and 115AD. (c) The surcharge rate is nil if the total income of a specified fund as referred to section 10(4D) includes any income in respect of securities as given under section 115AD(1)(a). (d) If assessee opted for tax regime under section 115BAC(1A), the enhanced surcharge rate of 37% isnt levied. In other words, f the total income of an assessee exceeds Rs. 5 crores, the surcharge rate will be 25% instead of 37%. In case of Firm, and local authority surcharge is levied at 12% if total income exceeds Rs 1 crore. In case of co-operative society, surcharge is levied at 7% if total income exceeds Rs 1 crore but doesnt exceeds Rs. 10 crore and surcharge is levied at 12% if total income exceeds Rs 1 crore. In case where a co-operative society opted for the alternative tax regime under section 115BAD or 115BAE, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a domestic company surcharge is levied @ 7% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 12% on the amount of income-tax if total income exceeds Rs. 10 crore (*). In case where a domestic company opted for alternative tax regime under or section 115BAB, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a foreign company surcharge is levied @ 2% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 5% on the amount of income-tax if total income exceeds Rs. 10 crore (*). (*) A taxpayer can claim marginal relief from the amount of surcharge, subject to certain conditions. Refer to next FAQ for concept of marginal relief. Illustration for better understanding Mr. Kapoor is a doctor, his total income for the year amounted to Rs. 44,00,000. Will he be liable to pay surcharge, if yes, then how much? ** Surcharge is additional tax levied on the amount of income-tax. In case of individuals surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh. In this case, total income of Mr. Kapoor is below Rs. 50 lakh, hence, he will not be liable to pay surcharge."
+        },
+        {
+          "title": "section 115BAB",
+          "url": "#",
+          "description": "Surcharge is an additional tax levied on the amount of income-tax. In case of individuals/HUF/AOP/BOI/artificial juridical person, surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh but doesnt exceeds Rs. 1 crore. Surcharge is levied @ 15% of income-tax where the total income of the taxpayer exceeds Rs. 1 crore but doesn't exceeds Rs. 2 crore.(*). Surcharge is levied @ 25% of income-tax where the total income of the taxpayer exceeds Rs. 2 crore but doesnt exceeds Rs. 5 crore(*). Surcharge is levied @ 37% of income-tax where the total income of the taxpayer exceeds Rs. 5 crore(*). Notes: (a) The surcharge rate for AOP with all members as a company, shall be capped at 15%. (b) The enhanced surcharge of 25% & 37%, as the case may be, is not levied, from income chargeable to tax under sections 111A, 112, 112A and 115AD. (c) The surcharge rate is nil if the total income of a specified fund as referred to section 10(4D) includes any income in respect of securities as given under section 115AD(1)(a). (d) If assessee opted for tax regime under section 115BAC(1A), the enhanced surcharge rate of 37% isnt levied. In other words, f the total income of an assessee exceeds Rs. 5 crores, the surcharge rate will be 25% instead of 37%. In case of Firm, and local authority surcharge is levied at 12% if total income exceeds Rs 1 crore. In case of co-operative society, surcharge is levied at 7% if total income exceeds Rs 1 crore but doesnt exceeds Rs. 10 crore and surcharge is levied at 12% if total income exceeds Rs 1 crore. In case where a co-operative society opted for the alternative tax regime under section 115BAD or 115BAE, the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a domestic company surcharge is levied @ 7% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 12% on the amount of income-tax if total income exceeds Rs. 10 crore (*). In case where a domestic company opted for alternative tax regime under section 115BAA or , the surcharge is levied at a rate of 10% on total income of Rs. 1 crore or more. In case of a foreign company surcharge is levied @ 2% on the amount of income-tax if the total income exceeds Rs. 1 crore but does not exceed Rs. 10 crore and @ 5% on the amount of income-tax if total income exceeds Rs. 10 crore (*). (*) A taxpayer can claim marginal relief from the amount of surcharge, subject to certain conditions. Refer to next FAQ for concept of marginal relief. Illustration for better understanding Mr. Kapoor is a doctor, his total income for the year amounted to Rs. 44,00,000. Will he be liable to pay surcharge, if yes, then how much? ** Surcharge is additional tax levied on the amount of income-tax. In case of individuals surcharge is levied @ 10% on the amount of income-tax where the total income of the taxpayer exceeds Rs. 50 lakh. In this case, total income of Mr. Kapoor is below Rs. 50 lakh, hence, he will not be liable to pay surcharge."
+        }
+      ]
+    }
+  },
+  {
+    "section_name": "section_5",
+    "section_title": "Section - 5",
+    "section_description": "Scope of total income",
+    "section_url": "https://incometaxindia.gov.in/acts/income-tax act, 1961/2025/102120000000090714.htm",
+    "section_id": "102120000000090714",
+    "page_number": 1,
+    "total_related_documents": 3,
+    "rules_count": 0,
+    "forms_count": 0,
+    "notifications_count": 0,
+    "circulars_count": 0,
+    "faqs_count": 2,
+    "others_count": 1,
+    "related_documents": {
+      "rules": [],
+      "forms": [],
+      "notifications": [],
+      "circulars": [],
+      "faqs": [
+        {
+          "title": "What incomes are deemed to have accrue or arise in India?",
+          "url": "",
+          "description": "X Following incomes are treated as incomes deemed to have accrued or arisen in India: Capital gain arising on transfer of property situated in India.Income from business connection in India. Income from salary in respect of services rendered in India.Salary received by an Indian national from Government of India in respect of service rendered outside India. However, allowances and perquisites are exempt in this case.Income from any property, asset or other source of income located in India.Dividend paid by an Indian company.Interest received from Government of India.Interest received from a resident is treated as income deemed to have accrued or arisen in India in all cases, except where such interest is earned in respect of funds borrowed by the resident and used by resident for carrying on business/profession outside India or is in respect of funds borrowed by the resident and is used for earning income from any source outside India. Interest received from a non-resident is treated as income deemed to accrue or arise in India if such interest is in respect of funds borrowed by the non-resident for carrying on any business/profession in India.Royalty/fees for technical services received from Government of India.Royalty/fees for technical services received from resident is treated as income deemed to have accrued or arisen in India in all cases, except where such royalty/fees relates to business/profession/other source of income carried on by the payer outside India.Royalty/fees for technical services received from non-resident is treated as income deemed to have accrued or arisen in India if such royalty/fees is for business/profession/other source of income carried by the payer in India. Income arising outside India, being any sum of money referred to in sub-clause (xviia) of clause (24) of section 2, paid on or after 05-07-2019 by a person resident in India to a non-resident."
+        },
+        {
+          "title": "Which incomes are charged to tax in India in the hands of a taxpayer?",
+          "url": "",
+          "description": "X The following chart highlights the tax incidence in case of different persons: Nature of incomeResidential status ROR (*) RNOR (*) NR (*)Income which accrues or arises in IndiaTaxedTaxedTaxedIncome which is deemed to accrue or arise in IndiaTaxedTaxedTaxedIncome which is received in IndiaTaxedTaxedTaxedIncome which is deemed to be received in India TaxedTaxedTaxedIncome accruing outside India from a business controlled from India or from a profession set up in IndiaTaxedTaxedNot taxedIncome other than above (i.e., income which has no relation with India)TaxedNot taxedNot taxed (*) ROR means resident and ordinarily resident. RNOR means resident but not ordinarily resident. NR means non-resident."
+        }
+      ],
+      "others": [
+        {
+          "title": "section 2",
+          "url": "#",
+          "description": "Following incomes are treated as incomes deemed to have accrued or arisen in India: Capital gain arising on transfer of property situated in India.Income from business connection in India. Income from salary in respect of services rendered in India.Salary received by an Indian national from Government of India in respect of service rendered outside India. However, allowances and perquisites are exempt in this case.Income from any property, asset or other source of income located in India.Dividend paid by an Indian company.Interest received from Government of India.Interest received from a resident is treated as income deemed to have accrued or arisen in India in all cases, except where such interest is earned in respect of funds borrowed by the resident and used by resident for carrying on business/profession outside India or is in respect of funds borrowed by the resident and is used for earning income from any source outside India. Interest received from a non-resident is treated as income deemed to accrue or arise in India if such interest is in respect of funds borrowed by the non-resident for carrying on any business/profession in India.Royalty/fees for technical services received from Government of India.Royalty/fees for technical services received from resident is treated as income deemed to have accrued or arisen in India in all cases, except where such royalty/fees relates to business/profession/other source of income carried on by the payer outside India.Royalty/fees for technical services received from non-resident is treated as income deemed to have accrued or arisen in India if such royalty/fees is for business/profession/other source of income carried by the payer in India. Income arising outside India, being any sum of money referred to in sub-clause (xviia) of clause (24) of , paid on or after 05-07-2019 by a person resident in India to a non-resident."
+        }
+      ]
+    }
+  },
+  {
+    "section_name": "section_5a",
+    "section_title": "Section - 5A",
+    "section_description": "Apportionment of income between spouses governed by Portuguese Civil Code",
+    "section_url": "https://incometaxindia.gov.in/acts/income-tax act, 1961/2025/102120000000090715.htm",
+    "section_id": "102120000000090715",
+    "page_number": 1,
+    "total_related_documents": 0,
+    "rules_count": 0,
+    "forms_count": 0,
+    "notifications_count": 0,
+    "circulars_count": 0,
+    "faqs_count": 0,
+    "others_count": 0,
+    "related_documents": {
+      "rules": [],
+      "forms": [],
+      "notifications": [],
+      "circulars": [],
+      "faqs": [],
+      "others": []
+    }
+  },
+  {
+    "section_name": "section_6",
+    "section_title": "Section - 6",
+    "section_description": "Residence in India",
+    "section_url": "https://incometaxindia.gov.in/acts/income-tax act, 1961/2025/102120000000090716.htm",
+    "section_id": "102120000000090716",
+    "page_number": 1,
+    "total_related_documents": 11,
+    "rules_count": 1,
+    "forms_count": 0,
+    "notifications_count": 0,
+    "circulars_count": 0,
+    "faqs_count": 7,
+    "others_count": 3,
+    "related_documents": {
+      "rules": [
+        {
+          "title": "Rule - 126",
+          "url": "https://incometaxindia.gov.in/Rules/Income-Tax Rules/ITR126.htm",
+          "description": ""
+        }
+      ],
+      "forms": [],
+      "notifications": [],
+      "circulars": [],
+      "faqs": [
+        {
+          "title": "How to determine the residential status of a company?",
+          "url": "",
+          "description": "X With effect from Assessment Year 2017-18, a company is said to be resident in India in any previous year, if: (i) it is an Indian company; or(ii) its place of effective management, at any time in that year, is in India.For this purpose, the place of effective management means a place where key management and commercial decisions that are necessary for the conduct of the business of an entity as a whole are, in substance made.The concept of POEM is effective from Assessment Year 2017-18. The CBDT has issued the final guidelines for determination of POEM of a foreign company.The final guidelines on POEM contain some unique features. One of the unique features is test of Active Business Outside India (ABOI). The guidelines prescribe that a company shall be said to engaged in 'active business outside India' if passive income is not more than 50% of its total income. Further, there are certain additional cumulative conditions to be satisfied regarding location of total assets, employees and payroll expenses.The place of effective management in case of a company engaged in active business outside India shall be presumed to be outside India if the majority meetings of the board of directors of the company are held outside India.In cases of companies other than those that are engaged in active business outside India, the determination of POEM would be a two stage process, namely:First stage would be identification or ascertaining the person or persons who actually make the key management and commercial decision for conduct of the company's business as a whole.Second stage would be determination of place where these decisions are in fact being made.However, it has been provided that the POEM guidelines shall not apply to a company having turnover or gross receipts of INR 50 crores or less in a financial year vide CIRCULAR NO.8, DATED 23-2-2017.(To know more about POEM guidelines, read CIRCULAR NO.6, DATED 24-1-2017.)"
+        },
+        {
+          "title": "How to determine the residential status of a HUF for the purpose of the Income-tax Law?",
+          "url": "",
+          "description": "X To determine the residential status of a HUF, the first step is to ascertain whether the HUF is resident or a non-resident. If the HUF turns to be a resident, then the next step is to ascertain whether it is resident and ordinarily resident or is resident but not ordinarily resident. Step 1 given below will ascertain whether the HUF is resident or non-resident and step 2 will ascertain whether the HUF is ordinarily resident or not ordinarily resident. Step 2 is to be performed only if the HUF turns to be a resident. Step 1: Determining whether resident or non-resident For the purpose of Income-tax Law, a HUF will be treated as resident in India, if the control and management of the affairs of the HUF is located (partly or wholly) in India. Step 2: Determining whether resident and ordinarily resident or resident but not ordinarily residentA resident HUF will be treated as resident and ordinarily resident in India during the year if its manager (i.e. karta or manager) satisfies both the following conditions :(1) He is resident in India for at least 2 years out of 10 years immediately preceding the relevant year.(2) His stay in India is for 730 days or more during 7 years immediately preceding the relevant year. A resident HUF whose manager (i.e. karta or manager) does not satisfy any of the aforesaid conditions or satisfies only one of the aforesaid conditions will be treated as resident but not ordinarily resident.In short, following test will determine the residential status of a HUF :If the control and management of the affairs of the HUF is located (partly or wholly) in India and the manager (i.e. karta or manager) satisfies both the conditions specified at step 2, then the HUF will become resident and ordinarily resident in India. If the control and management of the affairs of the HUF is located (partly or wholly) in India and the manager (i.e. karta or manager) satisfies none or only one condition specified at step 2, then the HUF will become resident but not ordinarily resident in India. If the control and management of the affairs of the HUF is located wholly outside India, then the HUF will become non-resident."
+        },
+        {
+          "title": "How to determine the residential status of a person other than an individual, HUF and company?",
+          "url": "",
+          "description": "X Every person other than an individual, HUF and company is said to be resident in India during the year, if the control and management of its affairs for that year is located wholly or partly in India."
+        },
+        {
+          "title": "How to determine the residential status of an Individual?",
+          "url": "",
+          "description": "X To determine the residential status of an individual, the first step is to ascertain whether he is resident or non-resident. If he turns to be a resident, then the next step is to ascertain whether he is resident and ordinarily resident or is a resident but not ordinarily resident. Step 1 given below will ascertain whether the individual is resident or non-resident and step 2 will ascertain whether he is ordinarily resident or not ordinarily resident. Step 2 is to be performed only if the individual turns to be a resident. Step 1: Determining whether resident or non-resident Under the Income-tax Law, an individual will be treated as a resident in India for a year if he satisfies any of the following conditions (i.e. may satisfy any one or may satisfy both the conditions):(1) He is in India for a period of 182 days or more in that year; or(2) He is in India for a period of 60 days or more in the year and for a period of 365 days or more in 4 years immediately preceding the relevant year. However, in respect of an Indian citizen and a person of Indian origin who visits India during the year, the period of 60 days as mentioned in (2) above shall be substituted with 182 days. The similar concession is provided to the Indian citizen who leaves India in any previous year as a crew member or for the purpose of employment outside India.The Finance Act, 2020, w.e.f., Assessment Year 2021-22 has amended the above exception to provide that the period of 60 days as mentioned in (2) above shall be substituted with 120 days, if an Indian citizen or a person of Indian origin whose total income, other than income from foreign sources, exceeds Rs. 15 lakhs during the previous year. Income from foreign sources means income which accrues or arises outside India (except income derived from a business controlled in or a profession set up in India).Note: The Finance Act, 2020 has introduced new section 6(1A) to the Income-tax Act, 1961. The new provision provides that an Indian citizen shall be deemed to be resident in India only if his total income, other than income from foreign sources, exceeds Rs. 15 lakhs during the previous year. For this provision, income from foreign sources means income which accrues or arises outside India (except income derived from a business controlled in or a profession set up in India).However, such individual shall be deemed to be Indian resident only when he is not liable to tax in any country or jurisdiction by reason of his domicile or residence or any other criteria of similar nature. Thus, from Assessment Year 2021-22, an Indian Citizen earning total income in excess of Rs. 15 lakhs (other than from foreign sources) shall be deemed to be resident in India if he is not liable to pay tax in any country. Step 2: Determining whether resident and ordinarily resident or resident but not ordinarily residentA resident individual will be treated as resident but not ordinarily resident in India during the year if he satisfies following conditions:(1) He is non-resident in India in 9 out of last 10 years immediately preceding the relevant year; or(2) His stay in India is for 729 days or less during 7 years immediately preceding the relevant year.However, w.e.f., Assessment Year 2021-22, the Finance Act, 2020 has inserted the following two more situations wherein a resident person is deemed to be Not Ordinarily Resident in India:a) An Indian Citizen or a person of Indian origin whose total income (other than income from foreign sources) exceeds Rs. 15 lakhs during the previous year and who has been in India for a period of 120 days or more but less than 182 days;b) An Indian Citizen who is deemed to be resident in India as per new section 6(1A).A resident individual who does not satisfy any of the aforesaid conditions or satisfies only one of the aforesaid conditions will be treated as resident but not ordinarily resident.In short, following test will determine the residential status of an individual:If the individual satisfy any one or both the conditions specified at step 1 and satisfies any of the conditions specified at step 2, then he will become resident and ordinarily resident in India. If the individual satisfy any one or both the conditions specified at step 1 and satisfies any of the condition specified at step 2, then he will become resident but not ordinarily resident in India. If the individual satisfy no conditions satisfied at step one, then he will become non-resident. Click here to calculate Residential Status"
+        },
+        {
+          "title": "Is the residential status of a person relevant for determining the taxability of the income in his hands?",
+          "url": "",
+          "description": "X Yes, the residential status of a person earning income is very much relevant for determining the taxability of such income in his hands.Taxability of any income in the hands of a person depends on the following two things :(1) Residential status of the person as per the Income-tax Law; and(2) Nature of income earned by him.Hence, residential status plays a vital role in determining the taxability of the income."
+        },
+        {
+          "title": "What are the different classes of residential status prescribed under the Income-tax Law for a Hindu Undivided Family (HUF)?",
+          "url": "",
+          "description": "X For the purpose of Income-tax Law, a HUF can have any one of the following residential status:(1) Resident and ordinarily resident in India (2) Resident but not ordinarily resident in India (3) Non-resident Every year the residential status of the taxpayer is to be determined by applying the provisions of the Income-tax Law designed in this regard (discussed later) and, hence, it may so happen that in one year the HUF would be a resident and ordinarily resident and in the next year it may become non-resident or resident but not ordinarily resident and again in the next year its status may change or may remain same."
+        },
+        {
+          "title": "What are the different classes of residential status prescribed under the Income-tax Law for a person other than an individual or a HUF?",
+          "url": "",
+          "description": "X For the purpose of Income-tax Law, a person other than an individual or a HUF, i.e., company, partnership firm, etc., can have any one of the following residential status:(1) Resident (2) Non-resident Every year the residential status of the taxpayer is to be determined by applying the provisions of the Income-tax Law designed in this regard (discussed later) and, hence, it may so happen that in one year the taxpayer would be a resident and in the next year may become non-resident and again in the next year the status may change or may remain same."
+        }
+      ],
+      "others": [
+        {
+          "title": "section 6(1A)",
+          "url": "#",
+          "description": "To determine the residential status of an individual, the first step is to ascertain whether he is resident or non-resident. If he turns to be a resident, then the next step is to ascertain whether he is resident and ordinarily resident or is a resident but not ordinarily resident. Step 1 given below will ascertain whether the individual is resident or non-resident and step 2 will ascertain whether he is ordinarily resident or not ordinarily resident. Step 2 is to be performed only if the individual turns to be a resident. Step 1: Determining whether resident or non-resident Under the Income-tax Law, an individual will be treated as a resident in India for a year if he satisfies any of the following conditions (i.e. may satisfy any one or may satisfy both the conditions):(1) He is in India for a period of 182 days or more in that year; or(2) He is in India for a period of 60 days or more in the year and for a period of 365 days or more in 4 years immediately preceding the relevant year. However, in respect of an Indian citizen and a person of Indian origin who visits India during the year, the period of 60 days as mentioned in (2) above shall be substituted with 182 days. The similar concession is provided to the Indian citizen who leaves India in any previous year as a crew member or for the purpose of employment outside India.The Finance Act, 2020, w.e.f., Assessment Year 2021-22 has amended the above exception to provide that the period of 60 days as mentioned in (2) above shall be substituted with 120 days, if an Indian citizen or a person of Indian origin whose total income, other than income from foreign sources, exceeds Rs. 15 lakhs during the previous year. Income from foreign sources means income which accrues or arises outside India (except income derived from a business controlled in or a profession set up in India).Note: The Finance Act, 2020 has introduced new to the Income-tax Act, 1961. The new provision provides that an Indian citizen shall be deemed to be resident in India only if his total income, other than income from foreign sources, exceeds Rs. 15 lakhs during the previous year. For this provision, income from foreign sources means income which accrues or arises outside India (except income derived from a business controlled in or a profession set up in India).However, such individual shall be deemed to be Indian resident only when he is not liable to tax in any country or jurisdiction by reason of his domicile or residence or any other criteria of similar nature. Thus, from Assessment Year 2021-22, an Indian Citizen earning total income in excess of Rs. 15 lakhs (other than from foreign sources) shall be deemed to be resident in India if he is not liable to pay tax in any country. Step 2: Determining whether resident and ordinarily resident or resident but not ordinarily residentA resident individual will be treated as resident but not ordinarily resident in India during the year if he satisfies following conditions:(1) He is non-resident in India in 9 out of last 10 years immediately preceding the relevant year; or(2) His stay in India is for 729 days or less during 7 years immediately preceding the relevant year.However, w.e.f., Assessment Year 2021-22, the Finance Act, 2020 has inserted the following two more situations wherein a resident person is deemed to be Not Ordinarily Resident in India:a) An Indian Citizen or a person of Indian origin whose total income (other than income from foreign sources) exceeds Rs. 15 lakhs during the previous year and who has been in India for a period of 120 days or more but less than 182 days;b) An Indian Citizen who is deemed to be resident in India as per new .A resident individual who does not satisfy any of the aforesaid conditions or satisfies only one of the aforesaid conditions will be treated as resident but not ordinarily resident.In short, following test will determine the residential status of an individual:If the individual satisfy any one or both the conditions specified at step 1 and satisfies any of the conditions specified at step 2, then he will become resident and ordinarily resident in India. If the individual satisfy any one or both the conditions specified at step 1 and satisfies any of the condition specified at step 2, then he will become resident but not ordinarily resident in India. If the individual satisfy no conditions satisfied at step one, then he will become non-resident. Click here to calculate Residential Status"
+        },
+        {
+          "title": "section 6(1A)",
+          "url": "#",
+          "description": "To determine the residential status of an individual, the first step is to ascertain whether he is resident or non-resident. If he turns to be a resident, then the next step is to ascertain whether he is resident and ordinarily resident or is a resident but not ordinarily resident. Step 1 given below will ascertain whether the individual is resident or non-resident and step 2 will ascertain whether he is ordinarily resident or not ordinarily resident. Step 2 is to be performed only if the individual turns to be a resident. Step 1: Determining whether resident or non-resident Under the Income-tax Law, an individual will be treated as a resident in India for a year if he satisfies any of the following conditions (i.e. may satisfy any one or may satisfy both the conditions):(1) He is in India for a period of 182 days or more in that year; or(2) He is in India for a period of 60 days or more in the year and for a period of 365 days or more in 4 years immediately preceding the relevant year. However, in respect of an Indian citizen and a person of Indian origin who visits India during the year, the period of 60 days as mentioned in (2) above shall be substituted with 182 days. The similar concession is provided to the Indian citizen who leaves India in any previous year as a crew member or for the purpose of employment outside India.The Finance Act, 2020, w.e.f., Assessment Year 2021-22 has amended the above exception to provide that the period of 60 days as mentioned in (2) above shall be substituted with 120 days, if an Indian citizen or a person of Indian origin whose total income, other than income from foreign sources, exceeds Rs. 15 lakhs during the previous year. Income from foreign sources means income which accrues or arises outside India (except income derived from a business controlled in or a profession set up in India).Note: The Finance Act, 2020 has introduced new to the Income-tax Act, 1961. The new provision provides that an Indian citizen shall be deemed to be resident in India only if his total income, other than income from foreign sources, exceeds Rs. 15 lakhs during the previous year. For this provision, income from foreign sources means income which accrues or arises outside India (except income derived from a business controlled in or a profession set up in India).However, such individual shall be deemed to be Indian resident only when he is not liable to tax in any country or jurisdiction by reason of his domicile or residence or any other criteria of similar nature. Thus, from Assessment Year 2021-22, an Indian Citizen earning total income in excess of Rs. 15 lakhs (other than from foreign sources) shall be deemed to be resident in India if he is not liable to pay tax in any country. Step 2: Determining whether resident and ordinarily resident or resident but not ordinarily residentA resident individual will be treated as resident but not ordinarily resident in India during the year if he satisfies following conditions:(1) He is non-resident in India in 9 out of last 10 years immediately preceding the relevant year; or(2) His stay in India is for 729 days or less during 7 years immediately preceding the relevant year.However, w.e.f., Assessment Year 2021-22, the Finance Act, 2020 has inserted the following two more situations wherein a resident person is deemed to be Not Ordinarily Resident in India:a) An Indian Citizen or a person of Indian origin whose total income (other than income from foreign sources) exceeds Rs. 15 lakhs during the previous year and who has been in India for a period of 120 days or more but less than 182 days;b) An Indian Citizen who is deemed to be resident in India as per new .A resident individual who does not satisfy any of the aforesaid conditions or satisfies only one of the aforesaid conditions will be treated as resident but not ordinarily resident.In short, following test will determine the residential status of an individual:If the individual satisfy any one or both the conditions specified at step 1 and satisfies any of the conditions specified at step 2, then he will become resident and ordinarily resident in India. If the individual satisfy any one or both the conditions specified at step 1 and satisfies any of the condition specified at step 2, then he will become resident but not ordinarily resident in India. If the individual satisfy no conditions satisfied at step one, then he will become non-resident. Click here to calculate Residential Status"
+        },
+        {
+          "title": "Click here",
+          "url": "/Pages/tools/residential-status-calculator.aspx",
+          "description": "To determine the residential status of an individual, the first step is to ascertain whether he is resident or non-resident. If he turns to be a resident, then the next step is to ascertain whether he is resident and ordinarily resident or is a resident but not ordinarily resident. Step 1 given below will ascertain whether the individual is resident or non-resident and step 2 will ascertain whether he is ordinarily resident or not ordinarily resident. Step 2 is to be performed only if the individual turns to be a resident. Step 1: Determining whether resident or non-resident Under the Income-tax Law, an individual will be treated as a resident in India for a year if he satisfies any of the following conditions (i.e. may satisfy any one or may satisfy both the conditions):(1) He is in India for a period of 182 days or more in that year; or(2) He is in India for a period of 60 days or more in the year and for a period of 365 days or more in 4 years immediately preceding the relevant year. However, in respect of an Indian citizen and a person of Indian origin who visits India during the year, the period of 60 days as mentioned in (2) above shall be substituted with 182 days. The similar concession is provided to the Indian citizen who leaves India in any previous year as a crew member or for the purpose of employment outside India.The Finance Act, 2020, w.e.f., Assessment Year 2021-22 has amended the above exception to provide that the period of 60 days as mentioned in (2) above shall be substituted with 120 days, if an Indian citizen or a person of Indian origin whose total income, other than income from foreign sources, exceeds Rs. 15 lakhs during the previous year. Income from foreign sources means income which accrues or arises outside India (except income derived from a business controlled in or a profession set up in India).Note: The Finance Act, 2020 has introduced new section 6(1A) to the Income-tax Act, 1961. The new provision provides that an Indian citizen shall be deemed to be resident in India only if his total income, other than income from foreign sources, exceeds Rs. 15 lakhs during the previous year. For this provision, income from foreign sources means income which accrues or arises outside India (except income derived from a business controlled in or a profession set up in India).However, such individual shall be deemed to be Indian resident only when he is not liable to tax in any country or jurisdiction by reason of his domicile or residence or any other criteria of similar nature. Thus, from Assessment Year 2021-22, an Indian Citizen earning total income in excess of Rs. 15 lakhs (other than from foreign sources) shall be deemed to be resident in India if he is not liable to pay tax in any country. Step 2: Determining whether resident and ordinarily resident or resident but not ordinarily residentA resident individual will be treated as resident but not ordinarily resident in India during the year if he satisfies following conditions:(1) He is non-resident in India in 9 out of last 10 years immediately preceding the relevant year; or(2) His stay in India is for 729 days or less during 7 years immediately preceding the relevant year.However, w.e.f., Assessment Year 2021-22, the Finance Act, 2020 has inserted the following two more situations wherein a resident person is deemed to be Not Ordinarily Resident in India:a) An Indian Citizen or a person of Indian origin whose total income (other than income from foreign sources) exceeds Rs. 15 lakhs during the previous year and who has been in India for a period of 120 days or more but less than 182 days;b) An Indian Citizen who is deemed to be resident in India as per new section 6(1A).A resident individual who does not satisfy any of the aforesaid conditions or satisfies only one of the aforesaid conditions will be treated as resident but not ordinarily resident.In short, following test will determine the residential status of an individual:If the individual satisfy any one or both the conditions specified at step 1 and satisfies any of the conditions specified at step 2, then he will become resident and ordinarily resident in India. If the individual satisfy any one or both the conditions specified at step 1 and satisfies any of the condition specified at step 2, then he will become resident but not ordinarily resident in India. If the individual satisfy no conditions satisfied at step one, then he will become non-resident. to calculate Residential Status"
+        }
+      ]
+    }
+  },
+  {
+    "section_name": "section_7",
+    "section_title": "Section - 7",
+    "section_description": "Income deemed to be received",
+    "section_url": "https://incometaxindia.gov.in/acts/income-tax act, 1961/2025/102120000000090717.htm",
+    "section_id": "102120000000090717",
+    "page_number": 1,
+    "total_related_documents": 0,
+    "rules_count": 0,
+    "forms_count": 0,
+    "notifications_count": 0,
+    "circulars_count": 0,
+    "faqs_count": 0,
+    "others_count": 0,
+    "related_documents": {
+      "rules": [],
+      "forms": [],
+      "notifications": [],
+      "circulars": [],
+      "faqs": [],
+      "others": []
+    }
+  },
+  {
+    "section_name": "section_8",
+    "section_title": "Section - 8",
+    "section_description": "Dividend income",
+    "section_url": "https://incometaxindia.gov.in/acts/income-tax act, 1961/2025/102120000000090718.htm",
+    "section_id": "102120000000090718",
+    "page_number": 1,
+    "total_related_documents": 0,
+    "rules_count": 0,
+    "forms_count": 0,
+    "notifications_count": 0,
+    "circulars_count": 0,
+    "faqs_count": 0,
+    "others_count": 0,
+    "related_documents": {
+      "rules": [],
+      "forms": [],
+      "notifications": [],
+      "circulars": [],
+      "faqs": [],
+      "others": []
+    }
+  },
+  {
+    "section_name": "section_9",
+    "section_title": "Section - 9",
+    "section_description": "Income deemed to accrue or arise in India",
+    "section_url": "https://incometaxindia.gov.in/acts/income-tax act, 1961/2025/102120000000090719.htm",
+    "section_id": "102120000000090719",
+    "page_number": 1,
+    "total_related_documents": 13,
+    "rules_count": 11,
+    "forms_count": 1,
+    "notifications_count": 0,
+    "circulars_count": 0,
+    "faqs_count": 1,
+    "others_count": 0,
+    "related_documents": {
+      "rules": [
+        {
+          "title": "Rule - 6GA",
+          "url": "https://incometaxindia.gov.in/Rules/Income-Tax Rules/103120000000007149.htm",
+          "description": ""
+        },
+        {
+          "title": "Rule - 10",
+          "url": "https://incometaxindia.gov.in/Rules/Income-Tax Rules/103120000000007183.htm",
+          "description": ""
+        },
+        {
+          "title": "Rule - 11",
+          "url": "https://incometaxindia.gov.in/Rules/Income-Tax Rules/103120000000007212.htm",
+          "description": ""
+        },
+        {
+          "title": "Rule - 11UB",
+          "url": "https://incometaxindia.gov.in/Rules/Income-Tax Rules/rule11UB.htm",
+          "description": ""
+        },
+        {
+          "title": "Rule - 11UC",
+          "url": "https://incometaxindia.gov.in/Rules/Income-Tax Rules/rule11UC.htm",
+          "description": ""
+        },
+        {
+          "title": "Rule - 11UD",
+          "url": "https://incometaxindia.gov.in/Rules/Income-Tax Rules/103520000000082161.htm",
+          "description": ""
+        },
+        {
+          "title": "Rule - 11UE",
+          "url": "https://incometaxindia.gov.in/Rules/Income-Tax Rules/103520000000085335.htm",
+          "description": ""
+        },
+        {
+          "title": "Rule - 11UF",
+          "url": "https://incometaxindia.gov.in/Rules/Income-Tax Rules/103520000000085336.htm",
+          "description": ""
+        },
+        {
+          "title": "Form No. 1 - Undertaking under sub-rule (1) of rule 11UE of the Income-tax Rules, 1962",
+          "url": "https://incometaxindia.gov.in/Forms/Income-Tax Rules/103520000000085341.pdf",
+          "description": ""
+        },
+        {
+          "title": "Form No. 2 - Form for Certificate Under sub-rule (2) of rule 11UF",
+          "url": "https://incometaxindia.gov.in/Forms/Income-Tax Rules/103520000000085346.pdf",
+          "description": ""
+        },
+        {
+          "title": "Form No. 3 - Intimation for Withdrawal under sub-rule (3) of rule 11UF of the Income- tax Rules, 1962",
+          "url": "https://incometaxindia.gov.in/Forms/Income-Tax Rules/103520000000085353.pdf",
+          "description": ""
+        }
+      ],
+      "forms": [
+        {
+          "title": "Form No. 3CT - Income attributable to assets located in India under section 9 of the Income-tax Act, 1961",
+          "url": "https://incometaxindia.gov.in/Forms/Income-Tax Rules/ITR62Form3CT.pdf",
+          "description": ""
+        }
+      ],
+      "notifications": [],
+      "circulars": [],
+      "faqs": [
+        {
+          "title": "When is a business connection said to be established?",
+          "url": "",
+          "description": "X Business connection includes a profession at connection. Business connection includes any activity carried out through a person acting on behalf of a non-resident who performs any one or more of the following:If such person has in India authority to conclude contracts on behalf of the non-resident (it will not include cases where authority is restricted to contract for purchase of goods or merchandise on behalf such non-resident); orIf such person in India habitually maintains stock of goods or merchandise from which he regularly delivers goods or merchandise on behalf of the non-resident; If such person habitually secures orders in India mainly or wholly for the non-resident or for the other non-resident under the same management.No business connection shall be deemed to have been established, if the business is carried on through an independent broker, general commission agent or other agent (i.e., a broker or commission agent who is not working mainly or wholly for such non-resident or other non-resident under same management), provided such person is working in his ordinary course of business.Only so much of income which accrues or arises due to such business connection is deemed to be income accruing or arising from India and not the entire income of the non-resident."
+        }
+      ],
+      "others": []
+    }
+  }
+]
