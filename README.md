@@ -30,34 +30,56 @@ python -m pip install -r requirements.txt
 
 ### Basic Usage
 
+#### Income Tax Sections Scraper
+
 1. **Test Mode (3 pages)**:
    ```python
-   python income_tax_scraper.py
+   python scripts/income_tax_scraper.py
    ```
    - Processes first 3 pages (~30 sections)
    - Takes ~5 minutes
    - Good for testing and validation
 
 2. **Full Extraction (94 pages)**:
-   - Open `income_tax_scraper.py`
+   - Open `scripts/income_tax_scraper.py`
    - Change `TEST_MODE = False`
    - Run the script
    - Takes 3-5 hours (~940 sections)
+
+#### Income Tax Rules Scraper
+
+```python
+python scripts/income_tax_rules_scraper.py
+```
+- Extracts rule name, normalized name, description, and URL
+- Currently processes first page (10 rules) for testing
+- Outputs both Excel and JSON formats
+- ~1 minute runtime
 
 ## 📁 Repository Structure
 
 ```
 ita/
-├── income_tax_scraper.py          # Main scraper (final version)
-├── requirements.txt               # Dependencies
-├── README.md                     # This file
-├── output/
-│   ├── excel/                   # Excel output files
-│   └── data/                    # JSON data files
 ├── scripts/
-│   ├── archive/                 # Older script versions
-│   └── experiments/             # Development/debug scripts
-└── docs/                        # Documentation
+│   ├── income_tax_scraper.py          # **Main sections scraper**
+│   ├── income_tax_rules_scraper.py    # **Main rules scraper**
+│   ├── archive/                       # Original and archived scripts
+│   │   ├── extract_sections.py       # Original failing scraper
+│   │   ├── explore_webpage.py         # Initial webpage exploration
+│   │   └── test_selenium.py           # Selenium testing script
+│   └── experiments/                   # Experimental and exploration scripts
+│       ├── explore_basic.py           # Basic Beautiful Soup exploration
+│       ├── explore_with_selenium.py   # Selenium-based exploration
+│       ├── test_related_docs_api.py   # Web service API testing
+│       ├── explore_rules_page.py      # Rules page structure exploration
+│       ├── analyze_rules_structure.py # Detailed rules analysis
+│       └── selenium_rules_deep.py     # Deep Selenium rules exploration
+├── output/
+│   ├── data/                          # Raw scraped data (JSON)
+│   └── excel/                         # Excel output files
+├── requirements.txt                   # Dependencies
+├── README.md                          # This file
+└── .venv/                             # Python virtual environment
 ```
 
 ## 📋 Output Files
