@@ -1,0 +1,13 @@
+# Section - 197B
+
+**URL:** https://incometaxindia.gov.in/acts/income-tax act, 1961/2025/102120000000091313.htm
+
+**Description:** Lower deduction in certain cases for a limited period
+
+---
+
+****
+
+**Lower deduction in certain cases for a limited period.**
+
+**197B.** In case the provisions of [sections 193](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091268', ''\);), [194](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091269', ''\);), [194A](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091270', ''\);), [194C](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091274', ''\);), [194D](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091275', ''\);), [194DA](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091276', ''\);), [194EE](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091278', ''\);), [194F](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091279', ''\);), [194G](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091280', ''\);), [194H](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091281', ''\);), [194-I](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091282', ''\);), [194-IA](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091283', ''\);), [194-IB](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091284', ''\);), [194-IC](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091285', ''\);), [194J](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091286', ''\);), [194K](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091287', ''\);), [194LA](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091288', ''\);), sub-section (1) of [section 194LBA](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091291', ''\);), clause (_i_) of [section 194LBB](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091292', ''\);), sub-section (1) of [section 194LBC](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091293', ''\);), [sections 194M](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091296', ''\);) and [194-O](javascript:ShowMainContent\('Act', 'CMSID', '102120000000091298', ''\);) require deduction of tax at source during the period commencing from the 14th day of May, 2020 to the 31st day of March, 2021, then notwithstanding anything contained in these sections the deduction of tax shall be made at the rate being the three-fourth of the rate specified in these sections.
