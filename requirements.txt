@@ -10,5 +10,8 @@ requests>=2.28.0
 pandas>=1.5.0
 openpyxl>=3.0.0
 
+# Markdown conversion
+html2text>=2020.1.16
+
 # Standard libraries (usually included with Python)
 # json, re, time, typing

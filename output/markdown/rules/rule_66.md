@@ -1,0 +1,11 @@
+****
+
+**Powers of prescribed authority and Inquiry Officer.**
+
+**66.** For the purposes of any proceedings under rules 59 to 65, the prescribed authority and the Inquiry Officer shall have the same powers as are vested in a Court under the Code of Civil Procedure, 1908 (5 of 1908), when trying a suit in respect of the following matters:—
+
+(_a_)|  | discovery and inspection;  
+---|---|---  
+(_b_)|  | enforcing the attendance of any person including any officer of a banking company and examining him on oath;  
+(_c_)|  | compelling the production of books of account and other documents; and  
+(_d_)|  | issuing commissions.

@@ -14,7 +14,7 @@ from pathlib import Path
 from typing import Dict, List, Optional
 
 # Configuration
-INPUT_EXCEL = "output/excel/selenium_income_tax_sections.xlsx"
+INPUT_EXCEL = "output/excel/income_tax_complete.xlsx"
 TEST_MODE = False  # Set to False to process all sections
 MAX_TEST_SECTIONS = 5  # Only used when TEST_MODE is True
 

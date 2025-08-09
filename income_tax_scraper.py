@@ -135,15 +135,27 @@ def parse_related_documents(html_content: str) -> Dict[str, List[Dict]]:
                 description = parent_text.replace(text, '').strip()
                 description = re.sub(r'\s+', ' ', description)
         
+        # Normalize rule naming for consistency with rules scraper
+        def _make_normalized_rule_name(raw_title: str) -> str:
+            raw_title_ascii = raw_title.strip().encode('ascii', 'ignore').decode('ascii')
+            raw_title_ascii = raw_title_ascii.replace('–', '-').replace('—', '-')
+            m = re.search(r'(?i)\brule\b\s*[-:]*\s*([A-Za-z0-9]+)', raw_title_ascii)
+            token = m.group(1) if m else raw_title_ascii
+            token = re.sub(r'[^A-Za-z0-9]+', '_', token).strip('_').lower()
+            if not token:
+                token = re.sub(r'[^A-Za-z0-9]+', '_', raw_title_ascii).strip('_').lower() or 'rule'
+            return f'rule_{token}'
+
         document_info = {
             'title': text,
             'url': href,
-            'description': description
+            'description': description,
         }
         
         text_lower = text.lower()
         
         if 'rule' in text_lower and href:
+            document_info['normalized_rule_name'] = _make_normalized_rule_name(text)
             result['rules'].append(document_info)
         elif 'form' in text_lower and href:
             result['forms'].append(document_info)
@@ -411,7 +423,7 @@ def main():
     print()
     
     # Configuration
-    TEST_MODE = True  # Change to False for full extraction
+    TEST_MODE = False  # Change to False for full extraction
     max_pages = 3 if TEST_MODE else 94
     
     print(f"Mode: {'TEST' if TEST_MODE else 'FULL EXTRACTION'}")
